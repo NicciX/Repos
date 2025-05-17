@@ -5,7 +5,7 @@
         "Description": "My custom version of WoLua for FFXIV.",
         "InternalName": "WoLua",
         "AssemblyVersion": "3.9.0",
-        "RepoUrl": "https://github.com/NicciX/WoLua",
+        "RepoUrl": "https://github.com/NicciX/Repos",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
         "IsHide": false,
