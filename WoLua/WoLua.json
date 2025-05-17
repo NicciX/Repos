@@ -1,0 +1,16 @@
+{
+  "Author": "VariableVixen, NicciX",
+  "Name": "WoLua",
+  "InternalName": "WoLua",
+  "AssemblyVersion": "3.9.0",
+  "Description": "My custom version of WoLua for FFXIV."",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PrincessRTFM/WoLua",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Let's Jack!",
+  "AcceptsFeedback": true
+}
