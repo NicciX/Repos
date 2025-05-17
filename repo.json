@@ -1,18 +1,18 @@
 [    
     {
         "Author": "VariableVixen, NicciX",
-        "Name": "WoLua",
+        "Name": "WoLuaX",
         "Description": "My custom version of WoLua for FFXIV.",
-        "InternalName": "WoLua",
+        "InternalName": "WoLuaX",
         "AssemblyVersion": "3.9.0",
-        "RepoUrl": "https://github.com/NicciX/WoLua",
+        "RepoUrl": "https://github.com/NicciX/WoLuaX",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/NicciX/WoLua/releases/download/Dalamud/latest.zip",
-        "DownloadLinkTesting": "https://github.com/NicciX/WoLua/releases/download/Dalamud/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NicciX/WoLua/releases/download/Dalamud/latest.zip",
+        "DownloadLinkInstall": "https://github.com/NicciX/WoLuaX/releases/download/Dalamud/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NicciX/WoLuaX/releases/download/Dalamud/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NicciX/WoLuaX/releases/download/Dalamud/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1744876255"
     }    
