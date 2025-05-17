@@ -8,7 +8,6 @@
         "RepoUrl": "https://github.com/NicciX/WoLua",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
-        "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkInstall": "https://github.com/NicciX/WoLua/releases/download/Dalamud/latest.zip",
