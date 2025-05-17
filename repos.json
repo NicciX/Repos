@@ -10,7 +10,7 @@
         "DalamudApiLevel": 12,
         "DownloadLinkInstall": "https://github.com/PrincessRTFM/MyDalamudPlugins/raw/master/plugins/WoLua/latest.zip",
         "IsHide": false,
-        "IsTestingExclusive": true,
+        "IsTestingExclusive": false,
         "DownloadLinkInstall": "https://github.com/NicciX/WoLua/releases/download/Dalamud/latest.zip",
         "DownloadLinkTesting": "https://github.com/NicciX/WoLua/releases/download/Dalamud/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NicciX/WoLua/releases/download/Dalamud/latest.zip",
