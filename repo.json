@@ -19,5 +19,26 @@
         "DownloadLinkUpdate": "https://github.com/NicciX/WoLuaX/releases/download/Dalamud/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1744876255"
-    }    
+    },
+	{
+        "Author": "Caraxi & Ottermandias",
+        "Name": "ChatAlertsX",
+        "Description": "My custom version of ChatAlerts for FFXIV.",
+        "InternalName": "ChatAlertsX",
+        "AssemblyVersion": "2.2.1.11",
+        "RepoUrl": "https://github.com/NicciX/ChatAlertsX",
+        "IconUrl": "https://raw.githubusercontent.com/NicciX/TurnipTime/refs/heads/main/Res/Mandragora_Genus_Icon.png",
+        "ApplicableVersion": "any",
+        "Tags": [
+			"jacks"
+		],
+        "DalamudApiLevel": 12,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/NicciX/ChatAlertsX/releases/download/Dalamud/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NicciX/ChatAlertsX/releases/download/Dalamud/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NicciX/ChatAlertsX/releases/download/Dalamud/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1744876255"
+    }
 ]
